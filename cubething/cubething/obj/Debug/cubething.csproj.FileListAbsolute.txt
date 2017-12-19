@@ -1,0 +1,9 @@
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\bin\Debug\cubething.exe.config
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\bin\Debug\cubething.exe
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\bin\Debug\cubething.pdb
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\obj\Debug\cubething.Form1.resources
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\obj\Debug\cubething.Properties.Resources.resources
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\obj\Debug\cubething.csproj.GenerateResource.Cache
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\obj\Debug\cubething.exe
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\obj\Debug\cubething.pdb
+c:\users\simon\documents\visual studio 2015\Projects\cubething\cubething\obj\Debug\cubething.csprojResolveAssemblyReference.cache
